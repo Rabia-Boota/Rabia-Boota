@@ -2,13 +2,9 @@
 👋 Welcome to my profile! I'm Rabia, a passionate and dynamic individual:
 
 🌐 Frontend Developer
-
 🎨 Aspiring UI/UX Designer
-
 📖 Dars-e-Nizami Graduate
-
 💻 Educator at Faizan Online Academy
-
 💡 Promoter of Web Development for Girls
 ⭐ React Learner
 🖥️ Website Creator for Modest Fashion
